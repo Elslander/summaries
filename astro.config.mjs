@@ -123,6 +123,27 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              label: "Visual Design 2",
+              items: []
+            },
+            {
+              label: "Web 2",
+              items: []
+            },
+            {
+              label: "Creative Code 2",
+              items: [
+                {label: "Object Oriented Programming (OOP)", slug: "cc2/object-oriented-programming"},
+                {label: "Document Object Model (DOM)", slug: "cc2/document-object-model"},
+                {label: "Events", slug: "cc2/events"},
+                {label: "Forms", slug: "cc2/forms"},
+                {label: "Localstorage & Timing", slug: "cc2/localstorage-timing"},
+                {label: "Micro Interactions", slug: "cc2/micro-interactions"},
+                {label: "Async Calls", slug: "cc2/async-calls"},
+                {label: "Canvas", slug: "cc2/canvas"},
+              ]
+            }
           ],
         },
         {
