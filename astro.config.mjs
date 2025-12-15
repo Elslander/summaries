@@ -353,6 +353,30 @@ export default defineConfig({
                     { label: "GitHub Flow", slug: "web3/github-flow" },
                   ],
                 },
+                {
+                  label: "Astro",
+                  slug: "web3/astro",
+                },
+                {
+                  label: "Images",
+                  slug: "web3/images",
+                },
+                {
+                  label: "Astro Images",
+                  slug: "web3/astro-images",
+                },
+                {
+                  label: "New in CSS",
+                  slug: "web3/css-new",
+                },
+                {
+                  label: "Deployment",
+                  slug: "web3/deployment",
+                },
+                {
+                  label: "Strapi",
+                  slug: "web3/strapi",
+                },
               ],
             },
             {
