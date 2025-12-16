@@ -5,8 +5,8 @@ import catppuccin from "@catppuccin/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://elslander.github.io/d-summaries",
-  base: "/d-summaries",
+  site: "https://elslander.github.io/summaries",
+  base: "/summaries",
   integrations: [
     starlight({
       title: "D-Summaries",
