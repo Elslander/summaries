@@ -9,7 +9,7 @@ export default defineConfig({
   base: "/summaries",
   integrations: [
     starlight({
-      title: "D-Summaries",
+      title: "Summaries",
       social: [
         // {
         //   icon: "github",
@@ -25,6 +25,7 @@ export default defineConfig({
           items: [
             {
               label: "Experience Design 1",
+              collapsed: true,
               items: [
                 { label: "User Centric Design", slug: "xd1/ucd" },
                 { label: "Archetypes", slug: "xd1/archetype" },
@@ -48,6 +49,7 @@ export default defineConfig({
             },
             {
               label: "Visual Design 1",
+              collapsed: true,
               items: [
                 { label: "Connotation", slug: "vd1/connotation" },
                 { label: "Denotation", slug: "vd1/denotation" },
@@ -63,10 +65,12 @@ export default defineConfig({
             },
             {
               label: "Creative Code 1",
+              collapsed: true,
               items: [],
             },
             {
               label: "Web 1",
+              collapsed: true,
               items: [
                 { label: "Structure with HTML", slug: "web1/structure-html" },
                 { label: "Semantics", slug: "web1/semantics" },
@@ -93,6 +97,7 @@ export default defineConfig({
           items: [
             {
               label: "Experience Design 2",
+              collapsed: true,
               items: [
                 { label: "User Journey", slug: "xd2/user-journey" },
                 { label: "AI in Experience Design", slug: "xd2/ai-ux" },
@@ -134,6 +139,7 @@ export default defineConfig({
             },
             {
               label: "Visual Design 2",
+              collapsed: true,
               items: [
                 { label: "Storytelling", slug: "vd2/storytelling" },
                 { label: "Typography", slug: "vd2/typography" },
@@ -174,6 +180,7 @@ export default defineConfig({
             },
             {
               label: "Web 2",
+              collapsed: true,
               items: [
                 {
                   label: "Server Side Development",
@@ -199,6 +206,7 @@ export default defineConfig({
             },
             {
               label: "Creative Code 2",
+              collapsed: true,
               items: [
                 {
                   label: "Object Oriented Programming (OOP)",
@@ -223,9 +231,11 @@ export default defineConfig({
         },
         {
           label: "Semester 3",
+          collapsed: true,
           items: [
             {
               label: "Experience Design 3",
+              collapsed: true,
               items: [
                 {
                   label: "Framing the Research questions",
@@ -259,6 +269,7 @@ export default defineConfig({
             },
             {
               label: "Visual Design 3",
+              collapsed: true,
               items: [
                 { label: "Brand Theory", slug: "vd3/brand-theory" },
                 { label: "Hook", slug: "vd3/hook" },
@@ -267,6 +278,7 @@ export default defineConfig({
             },
             {
               label: "Motion Design 1",
+              collapsed: true,
               items: [
                 {
                   label: "Workflow & Interface",
@@ -296,6 +308,7 @@ export default defineConfig({
             },
             {
               label: "Web 3",
+              collapsed: true,
               items: [
                 {
                   label: "Homework Week 1",
@@ -395,6 +408,7 @@ export default defineConfig({
             },
             {
               label: "Creative Code 3",
+              collapsed: true,
               items: [
                 { label: "ML5", slug: "cc3/ml5" },
                 { label: "GSAP Animations", slug: "cc3/gsap-animations" },
