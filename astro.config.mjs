@@ -377,6 +377,14 @@ export default defineConfig({
                   label: "Strapi",
                   slug: "web3/strapi",
                 },
+                {
+                  label: "Astro + Strapi",
+                  slug: "web3/astro-strapi",
+                },
+                {
+                  label: "Strapi Deployment",
+                  slug: "web3/strapi-deploy",
+                },
               ],
             },
             {
