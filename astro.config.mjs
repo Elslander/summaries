@@ -265,6 +265,14 @@ export default defineConfig({
                   label: "Cultural Probe",
                   slug: "xd3/cultural-probe",
                 },
+                {
+                  label: "Ethics, Inclusivity and Diversity",
+                  slug: "xd3/ethics",
+                },
+                {
+                  label: "Thematic Analysis",
+                  slug: "xd3/thematic-analysis",
+                },
               ],
             },
             {
