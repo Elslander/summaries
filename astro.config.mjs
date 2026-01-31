@@ -273,6 +273,10 @@ export default defineConfig({
                   label: "Thematic Analysis",
                   slug: "xd3/thematic-analysis",
                 },
+                {
+                  label: "Insights, Criticaleity, Feasibility, Future Work",
+                  slug: "xd3/insight-critical-feasable-future",
+                },
               ],
             },
             {
