@@ -429,6 +429,19 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "Semester 4",
+          collapsed: true,
+          items: [
+            {
+              label: "Motion Design 2",
+              collapsed: true,
+              items: [
+                {label: "Storyboard & Style Frames", slug: "motion2/storyboard"}
+              ]
+            }
+          ],
+        },
       ],
     }),
   ],
