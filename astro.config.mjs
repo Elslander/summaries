@@ -437,9 +437,22 @@ export default defineConfig({
               label: "Motion Design 2",
               collapsed: true,
               items: [
-                {label: "Storyboard & Style Frames", slug: "motion2/storyboard"}
-              ]
-            }
+                {
+                  label: "Storyboard & Style Frames",
+                  slug: "motion2/storyboard",
+                },
+              ],
+            },
+            {
+              label: "Web 4",
+              collapsed: true,
+              items: [
+                {
+                  label: "React",
+                  slug: "web4/react",
+                },
+              ],
+            },
           ],
         },
       ],
